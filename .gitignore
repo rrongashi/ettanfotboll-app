@@ -1,0 +1,40 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Next.js
+.next/
+out/
+.dist/
+.vercel/
+
+# Build/coverage
+build/
+dist/
+coverage/
+.turbo/
+.eslintcache
+
+# Env
+.env*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors/IDE
+.idea/
+.vscode/
+
+# Cache
+.cache/
+.pnpm-store/
+
+# Misc
+*.local
+
+
